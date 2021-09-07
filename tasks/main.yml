@@ -1,0 +1,4 @@
+---
+# tasks file for get-karbon-kubeconfig
+- import_tasks: get_session_cookie.yml
+- import_tasks: get_karbon_kubeconfig.yml
